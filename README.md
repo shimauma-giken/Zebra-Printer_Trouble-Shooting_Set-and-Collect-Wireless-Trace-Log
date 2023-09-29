@@ -22,7 +22,7 @@ https://supportcommunity.zebra.com/s/article/Capturing-WPA-Roam-Logging-For-A-Li
         ! U1 setvar "wlan.wpa.debug_log" "on" 
         ! U1 do "device.reset" "" 
 
-        ※ ""後にEnter(CR/LF)を入れること！
+        ※ コマンドの最終行に必ずEnter(CR/LF)を入れること！
 
 
 1. プリンタが再起動する。  
